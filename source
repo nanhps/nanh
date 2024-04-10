@@ -94,7 +94,7 @@ getgenv().Configs = {
     WhiteScreen = false
 }
 -- If you have more than 1 key, select only 1.
-_G.Key = "LuxuryV2_s06921engi6gbht1wd39"
+_G.Key = "main_mEo9vcotH6zD3Q82Ha8F"
 
 _G.DiscordId = "1151135707302199377"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NightsTimeZ/RoyryX/main/mainpack.lua"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NightsTimeZ/RoyryX/main/Loader.lua"))();
